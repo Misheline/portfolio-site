@@ -1,0 +1,19 @@
+#main-header{
+    text-align:center;
+    background-color: rgb(26, 14, 90);
+    color: white;
+    padding: 20px;
+    text-decoration: underline;
+
+}
+body{
+background-color: rgba(231, 231, 231, 0.849);
+margin-top: 0%;
+}
+.circle {
+    background-color: rgb(44, 34, 180);
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+   }
+   
